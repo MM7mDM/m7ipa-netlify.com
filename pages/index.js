@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="اهلا بك في" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          موقع بلس لتحميل اشياء مهكره ومجانية ومحذوفة</code>
         </p>
       </main>
 
